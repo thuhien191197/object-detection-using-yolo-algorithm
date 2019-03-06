@@ -5,3 +5,4 @@ __pycache__/
 
 weights/
 yolov2.weights
+images/
